@@ -6,7 +6,7 @@
 资源类Resources
 ---------
 
-- [awesome's awesome](https://github.com/geekan/awesome-awesome-awesome)
+- [awesome's awesome 集合](https://github.com/geekan/awesome-awesome-awesome)
 - [Awesome Flask](https://github.com/humiaozuzu/awesome-flask)
 - [Awesome Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
 
@@ -16,9 +16,9 @@
 工具类Tools
 ---------
 
-- [aria2](https://github.com/aria2/aria2)
+- [ARia2](https://github.com/aria2/aria2)
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent)
-- [syncthing](https://github.com/syncthing/syncthing)
+- [Syncthing](https://github.com/syncthing/syncthing)
 
 - [Delphi Lite 脚本](https://github.com/delphilite/SetupScript)
 - [Hardseed 种子下载](https://github.com/yangyangwithgnu/hardseed)
