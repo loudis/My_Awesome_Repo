@@ -1,11 +1,7 @@
-# My_Awesome_Repo
-保存关注的项目
-
 # My Awesome Repo Collection 
-=============
-
 > 不想watching或者star太多的项目，所以把部分项目放到这个收集列表里。
 
+============
 
 资源类Resources
 ---------
@@ -63,5 +59,6 @@
   -[HTML5 music player](https://github.com/DIYgod/APlayer)
   -[Bing接口](https://github.com/xCss/bing)
   -[三方微信SDK](https://github.com/zwczou/weixin-python)
+  -[SpeedDial网址索引](https://github.com/f12998765/SpeedDial)
   
   
