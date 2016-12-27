@@ -31,6 +31,7 @@
 - C#
   - [某自动交易程序](https://github.com/shidenggui/easytrader)
 - IOS
+  - [QMUI iOS](https://github.com/QMUI/QMUI_iOS)
   - [PHPHub iOS客户端](https://github.com/Aufree/PHPHub-iOS)
   - [V2ex三方iOS客户端](https://github.com/Finb/V2ex-Swift)
   - [仿知乎日报](https://github.com/TigerWf/WFZhiHu)
