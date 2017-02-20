@@ -41,6 +41,7 @@
 - Python
   - [Flarum 论坛](https://github.com/justjavac/Flarum)
   - [PeterDing 脚本合集](https://github.com/PeterDing/iScript)
+  - [查找代理爬虫](https://github.com/awolfly9/IPProxyTool)
   - [网页内容获取python](https://github.com/buriy/python-readability)
 - JavaScript & HTML
   - [移动端自适应方案flexible](https://github.com/amfe/lib-flexible)
