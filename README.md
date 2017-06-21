@@ -21,6 +21,7 @@
 - [You-get 下载工具](https://github.com/soimort/you-get)
 - [Rufus Usb工具](https://github.com/pbatard/rufus)
 - [BaiduExporter](https://github.com/acgotaku/BaiduExporter)
+- [来电信息-Android](https://github.com/xdtianyu/CallerInfo)
 
 
 其他感兴趣的项目Reference
@@ -43,11 +44,17 @@
   - [PeterDing 脚本合集](https://github.com/PeterDing/iScript)
   - [查找代理爬虫](https://github.com/awolfly9/IPProxyTool)
   - [网页内容获取python](https://github.com/buriy/python-readability)
+  - [TensorFlow 教程](https://github.com/nlintz/TensorFlow-Tutorials)
 - JavaScript & HTML
   - [移动端自适应方案flexible](https://github.com/amfe/lib-flexible)
   - [HTML5 music player](https://github.com/DIYgod/APlayer)
   - [Bing接口](https://github.com/xCss/bing)
   - [三方微信SDK](https://github.com/zwczou/weixin-python)
   - [SpeedDial网址索引](https://github.com/f12998765/SpeedDial)
+- Node.js
+  - [追书神器](https://github.com/xiadd/zhuishushenqi)
+  
+
+
 
 
