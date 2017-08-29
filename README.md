@@ -6,6 +6,8 @@
 资源类Resources
 ---------
 - [awesome's awesome 集合](https://github.com/geekan/awesome-awesome-awesome)
+- [awesome sysadmin](https://github.com/n1trux/awesome-sysadmin)
+- [awesome selfhosted](https://github.com/Kickball/awesome-selfhosted)
 - [Awesome Flask](https://github.com/humiaozuzu/awesome-flask)
 - [Awesome Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
 - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
