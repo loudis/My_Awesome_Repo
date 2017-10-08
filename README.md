@@ -18,10 +18,12 @@
 - [ARia2](https://github.com/aria2/aria2)
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent)
 - [Syncthing](https://github.com/syncthing/syncthing)
-- [Delphi Lite 脚本](https://github.com/delphilite/SetupScript)
-- [Hardseed 种子下载](https://github.com/yangyangwithgnu/hardseed)
 - [You-get 下载工具](https://github.com/soimort/you-get)
+- [Delphi Lite 脚本](https://github.com/delphilite/SetupScript)
 - [Rufus Usb工具](https://github.com/pbatard/rufus)
+
+- [Hardseed 种子下载](https://github.com/yangyangwithgnu/hardseed)
+- [百度网盘Python客户端](https://github.com/houtianze/bypy)
 - [BaiduExporter](https://github.com/acgotaku/BaiduExporter)
 - [来电信息-Android](https://github.com/xdtianyu/CallerInfo)
 
